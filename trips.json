@@ -1,0 +1,324 @@
+[
+  {
+    "flight_number": "FR6877",
+    "airline": "RyanAir",
+    "departure_date": "2022-06-22",
+    "departure_city": "Krakow",
+    "destination_city": "Milan (Bergamo)"
+  },
+  {
+    "flight_number": "FR888",
+    "airline": "RyanAir",
+    "departure_date": "2022-06-24",
+    "departure_city": "Milan (Bergamo)",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "FR946",
+    "airline": "RyanAir",
+    "departure_date": "2022-08-18",
+    "departure_city": "Krakow",
+    "destination_city": "Vienna"
+  },
+  {
+    "flight_number": "FR947",
+    "airline": "RyanAir",
+    "departure_date": "2022-08-21",
+    "departure_city": "Vienna",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "LH1371",
+    "airline": "Lufthansa",
+    "departure_date": "2022-11-14",
+    "departure_city": "Krakow",
+    "destination_city": "Frankfurt"
+  },
+  {
+    "flight_number": "LH542",
+    "airline": "Lufthansa",
+    "departure_date": "2022-11-14",
+    "departure_city": "Frankfurt",
+    "destination_city": "Bogotá"
+  },
+  {
+    "flight_number": "LA4134",
+    "airline": "LATAM Airlines",
+    "departure_date": "2022-11-14",
+    "departure_city": "Bogotá",
+    "destination_city": "Barranquilla"
+  },
+  {
+    "flight_number": "AV8575",
+    "airline": "Avianca",
+    "departure_date": "2023-01-01",
+    "departure_city": "Barranquilla",
+    "destination_city": "Bogotá"
+  },
+  {
+    "flight_number": "LH543",
+    "airline": "Lufthansa",
+    "departure_date": "2023-01-01",
+    "departure_city": "Bogotá",
+    "destination_city": "Frankfurt"
+  },
+  {
+    "flight_number": "LH1368",
+    "airline": "Lufthansa",
+    "departure_date": "2023-01-02",
+    "departure_city": "Frankfurt",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "FR9663",
+    "airline": "RyanAir",
+    "departure_date": "2023-02-10",
+    "departure_city": "Krakow",
+    "destination_city": "Rome (Ciampino)"
+  },
+  {
+    "flight_number": "FR9662",
+    "airline": "RyanAir",
+    "departure_date": "2023-02-16",
+    "departure_city": "Rome (Ciampino)",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "LH1627",
+    "airline": "Lufthansa",
+    "departure_date": "2023-05-03",
+    "departure_city": "Krakow",
+    "destination_city": "Munich"
+  },
+  {
+    "flight_number": "SN2642",
+    "airline": "Lufthansa",
+    "departure_date": "2023-05-03",
+    "departure_city": "Munich",
+    "destination_city": "Brussels"
+  },
+  {
+    "flight_number": "N/A",
+    "airline": "N/A car",
+    "departure_date": "2023-05-05",
+    "departure_city": "Brussels",
+    "destination_city": "Paris"
+  },
+  {
+    "flight_number": "EJU4667",
+    "airline": "easyJet",
+    "departure_date": "2023-05-08",
+    "departure_city": "Paris",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "LX1371",
+    "airline": "Swiss International Air Lines",
+    "departure_date": "2023-06-30",
+    "departure_city": "Krakow",
+    "destination_city": "Zurich"
+  },
+  {
+    "flight_number": "LX2146",
+    "airline": "Swiss International Air Lines",
+    "departure_date": "2023-06-30",
+    "departure_city": "Zurich",
+    "destination_city": "Valencia"
+  },
+  {
+    "flight_number": "OS0442",
+    "airline": "Lufthansa",
+    "departure_date": "2023-07-04",
+    "departure_city": "Valencia",
+    "destination_city": "Vienna"
+  },
+  {
+    "flight_number": "OS0599",
+    "airline": "Lufthansa",
+    "departure_date": "2023-07-04",
+    "departure_city": "Vienna",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "AV9524",
+    "airline": "Avianca",
+    "departure_date": "2023-10-09",
+    "departure_city": "Bogotá",
+    "destination_city": "Barranquilla"
+  },
+  {
+    "flight_number": "LH0542",
+    "airline": "Lufthansa",
+    "departure_date": "2023-10-09",
+    "departure_city": "Frankfurt",
+    "destination_city": "Bogotá"
+  },
+  {
+    "flight_number": "LH1365",
+    "airline": "Lufthansa",
+    "departure_date": "2023-10-09",
+    "departure_city": "Krakow",
+    "destination_city": "Frankfurt"
+  },
+  {
+    "flight_number": "LA4293",
+    "airline": "LATAM Airlines",
+    "departure_date": "2023-10-17",
+    "departure_city": "Cartagena de Indias",
+    "destination_city": "Pereira"
+  },
+  {
+    "flight_number": "LA4380",
+    "airline": "LATAM Airlines",
+    "departure_date": "2023-10-17",
+    "departure_city": "Medellín",
+    "destination_city": "Pereira"
+  },
+  {
+    "flight_number": "LA4379",
+    "airline": "LATAM Airlines",
+    "departure_date": "2023-10-19",
+    "departure_city": "Pereira",
+    "destination_city": "Medellín"
+  },
+  {
+    "flight_number": "LA4294",
+    "airline": "LATAM Airlines",
+    "departure_date": "2023-10-19",
+    "departure_city": "Medellín",
+    "destination_city": "Cartagena de Indias"
+  },
+  {
+    "flight_number": "LH543",
+    "airline": "Lufthansa",
+    "departure_date": "2023-10-24",
+    "departure_city": "Bogotá",
+    "destination_city": "Frankfurt"
+  },
+  {
+    "flight_number": "LH1370",
+    "airline": "Lufthansa",
+    "departure_date": "2023-10-24",
+    "departure_city": "Frankfurt",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "FR946",
+    "airline": "RyanAir",
+    "departure_date": "2024-05-05",
+    "departure_city": "Krakow",
+    "destination_city": "Vienna"
+  },
+  {
+    "flight_number": "FR947",
+    "airline": "RyanAir",
+    "departure_date": "2024-05-08",
+    "departure_city": "Vienna",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "KL1322",
+    "airline": "KLM",
+    "departure_date": "2024-10-20",
+    "departure_city": "Krakow",
+    "destination_city": "Amsterdam"
+  },
+  {
+    "flight_number": "KL741",
+    "airline": "KLM",
+    "departure_date": "2024-10-20",
+    "departure_city": "Amsterdam",
+    "destination_city": "Cartagena"
+  },
+  {
+    "flight_number": "DM1802",
+    "airline": "Arajet",
+    "departure_date": "2024-10-25",
+    "departure_city": "Cartagena",
+    "destination_city": "Santo Domingo"
+  },
+  {
+    "flight_number": "DM1791",
+    "airline": "Arajet",
+    "departure_date": "2024-10-25",
+    "departure_city": "Santo Domingo",
+    "destination_city": "Cancun"
+  },
+  {
+    "flight_number": "DM7005",
+    "airline": "Arajet",
+    "departure_date": "2024-10-29",
+    "departure_city": "Cancun",
+    "destination_city": "Punta Cana"
+  },
+  {
+    "flight_number": "DM1806",
+    "airline": "Arajet",
+    "departure_date": "2024-10-29",
+    "departure_city": "Punta Cana",
+    "destination_city": "Cartagena"
+  },
+  {
+    "flight_number": "KL749",
+    "airline": "KLM",
+    "departure_date": "2024-11-09",
+    "departure_city": "Cartagena",
+    "destination_city": "Amsterdam"
+  },
+  {
+    "flight_number": "KL1327",
+    "airline": "KLM",
+    "departure_date": "2024-11-10",
+    "departure_city": "Amsterdam",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "N/A",
+    "airline": "Private Car",
+    "departure_date": "2025-03-23",
+    "departure_city": "Krakow",
+    "destination_city": "Ostrava"
+  },
+  {
+    "flight_number": "N/A",
+    "airline": "Private Car",
+    "departure_date": "2025-03-23",
+    "departure_city": "Ostrava",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "FR4070",
+    "airline": "RyanAir",
+    "departure_date": "2025-04-14",
+    "departure_city": "Krakow",
+    "destination_city": "Prague"
+  },
+  {
+    "flight_number": "FR4078",
+    "airline": "RyanAir",
+    "departure_date": "2025-04-15",
+    "departure_city": "Prague",
+    "destination_city": "Krakow"
+  },
+  {
+    "flight_number": "FR3036",
+    "airline": "RyanAir",
+    "departure_date": "2025-06-10",
+    "departure_city": "Krakow",
+    "destination_city": "Barcelona"
+  },
+    {
+    "flight_number": "FR3121",
+    "airline": "RyanAir",
+    "departure_date": "2025-06-12",
+    "departure_city": "Barcelona-El Prat",
+    "destination_city": "Paris Beauvais"
+  },
+  {
+    "flight_number": "FR1470",
+    "airline": "RyanAir",
+    "departure_date": "2025-06-17",
+    "departure_city": "Rome Ciampino",
+    "destination_city": "Krakow"
+  }
+]

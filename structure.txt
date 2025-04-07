@@ -1,0 +1,7 @@
+/trip-mapper
+  /css
+    - styles.css
+  /js
+    - app.js
+  - index.html
+  - trips.json
